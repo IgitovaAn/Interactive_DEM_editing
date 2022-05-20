@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/DEM_editing" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

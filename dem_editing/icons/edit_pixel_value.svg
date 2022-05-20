@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg921" inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)" sodipodi:docname="apply_low_pass_filter.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.3;}
+	.st1{fill:#6E97C4;}
+	.st2{fill:#253E5B;}
+	.st3{fill:#592525;}
+	.st4{fill:#6D97C4;}
+	.st5{fill:none;}
+	.st6{fill:none;stroke:#FFF471;stroke-width:1.5;}
+	.st7{opacity:0.46;}
+	.st8{fill:none;stroke:#58A348;stroke-width:1.5;stroke-miterlimit:10;}
+	.st9{fill:#58A348;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview923" inkscape:current-layer="layer2" inkscape:cx="7.7730903" inkscape:cy="15.544663" inkscape:document-rotation="0" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="1027" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="1192" inkscape:zoom="17.5625" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="bg_raster">
+	<g id="g5456" transform="matrix(1.2307692,0,0,1.2307692,4,-5.8461542)" class="st0">
+		<rect id="rect6419" x="3.2" y="4.8" class="st1" width="6.5" height="6.5"/>
+		<rect id="rect6419-6" x="9.7" y="4.8" class="st2" width="6.5" height="6.5"/>
+		
+			<rect id="rect6419-6-9" x="3.2" y="11.3" inkscape:transform-center-x="-3.2499991" inkscape:transform-center-y="-4.3333322" class="st3" width="6.5" height="6.5">
+		</rect>
+		<rect id="rect6419-0" x="9.7" y="11.3" class="st4" width="6.5" height="6.5"/>
+		<rect id="rect6419-6-7" x="-3.3" y="4.8" class="st2" width="6.5" height="6.5"/>
+		<rect id="rect6419-3" x="-3.3" y="11.3" class="st4" width="6.5" height="6.5"/>
+		<rect id="rect6419-5" x="3.2" y="17.8" class="st4" width="6.5" height="6.5"/>
+		<rect id="rect6419-6-6" x="-3.3" y="17.8" class="st2" width="6.5" height="6.5"/>
+		<rect id="rect6419-6-6_1_" x="9.7" y="17.8" class="st2" width="6.5" height="6.5"/>
+		<rect id="rect6554" x="-3.3" y="4.8" class="st5" width="19.5" height="19.5"/>
+	</g>
+</g>
+<g id="layer2" inkscape:groupmode="layer" inkscape:label="filter">
+	<path id="path845_1_" sodipodi:nodetypes="czzc" class="st6" d="M1.6,20.8C9.1,20.8,8.3,5.4,12,5.4c3.9,0,3,15.4,10.8,15.4"/>
+</g>
+<g id="layer2_1_" inkscape:groupmode="layer" inkscape:label="filter" class="st7">
+	<path id="path845_2_" sodipodi:nodetypes="czzc" class="st6" d="M1.6,20.8C9.1,20.8,8.3,12,12,12c3.9,0,3,8.8,10.8,8.8"/>
+</g>
+<g>
+	<g>
+		<line class="st8" x1="12" y1="15.1" x2="12" y2="5.7"/>
+		<g>
+			<polygon class="st9" points="12,18.8 14.1,13.5 12,14.8 9.9,13.5 			"/>
+		</g>
+		<g>
+			<polygon class="st9" points="12,2 14.1,7.2 12,6 9.9,7.2 			"/>
+		</g>
+	</g>
+</g>
+</svg>
